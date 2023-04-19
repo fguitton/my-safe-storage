@@ -1,0 +1,15 @@
+{
+    "version": "1",
+    "name": "My trustless application",
+    "slug": "my-safe-storage",
+    "branch": "*",
+    "targetSdk": "1.0",
+    "applications": [
+        {
+            "name": "Hello World",
+            "version": "0.0.1",
+            "targetSdk": "1.1",
+            "rootDir": "/apps/hello_world"
+        }
+    ]
+}
